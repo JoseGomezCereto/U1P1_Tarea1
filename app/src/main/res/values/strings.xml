@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Contador de Clics</string>
+    <string name="contador_default">Has clicado 0 veces</string>
+    <string name="boton_click">CLICK ME!</string>
+    <string name="contador">Has clicado %1$d veces</string>
+</resources>
